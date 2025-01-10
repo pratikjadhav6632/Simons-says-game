@@ -3,6 +3,8 @@
 ## Project Description
 Simon Says is an interactive memory game where players click on the blinking colors in the correct sequence. The game keeps track of the current score and the highest score achieved by the player.
 
+## <a href="https://simon-says-game-gold.vercel.app/">Try now</a>
+
 ## Key Features
 - **High Score**: Tracks the highest score achieved during gameplay.
 - **Current Score**: Displays the player's score in the current game session.

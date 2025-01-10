@@ -39,5 +39,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, please contact:
 - **Name**: Pratik jadhav
-- **Email**: <a href="pratikjadhav6632@gmail.com"</a>
+- **Email**:pratikjadhav6632@gmail.com
 - **GitHub**: https://github.com/pratikjadhav6632
